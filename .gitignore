@@ -1,0 +1,21 @@
+# Ignore system and configuration files
+.DS_Store
+.CFUserTextEncoding
+.config/
+.gitconfig
+.mongodb/
+.npm/
+.vscode/
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshrc
+
+# Ignore system directories
+Desktop/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+data/
